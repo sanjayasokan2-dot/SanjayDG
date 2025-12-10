@@ -4,6 +4,7 @@ public class ExampleBasics {
 	
 	public static void main(String[]args) {
 		System.out.println("Welcone");
+		System.out.println("Welcome to git");
 		
 	}
 
